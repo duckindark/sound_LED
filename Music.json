@@ -113,5 +113,55 @@
     "id": 23,
     "name": "Robot Noise",
     "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/robot_noise.mp3"
+  },
+  {
+    "id": 24,
+    "name": "Crowd Cheer 1",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Croud%20Cheer%201%20(free).mp3"
+  },
+  {
+    "id": 25,
+    "name": "Crowd Cheer 2",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Croud%20Cheer%202%20(free).mp3"
+  },
+  {
+    "id": 26,
+    "name": "Fireworks 1",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Fireworks%201%20(Free).mp3"
+  },
+  {
+    "id": 27,
+    "name": "Fireworks 2",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Fireworks%202%20(Free).mp3"
+  },
+  {
+    "id": 28,
+    "name": "Happy Bell Ringing",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Happy%20Bell%20Ringing%20(free).mp3"
+  },
+  {
+    "id": 29,
+    "name": "Magical Fireworks",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Magical%20Fireworks%20(Sub).mp3"
+  },
+  {
+    "id": 30,
+    "name": "Party Blower 1",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Party%20Blower%201%20(free).mp3"
+  },
+  {
+    "id": 31,
+    "name": "Party Blower 1",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Party%20Blower%202%20(free).mp3"
+  },
+  {
+    "id": 32,
+    "name": "Special Crowd Cheer",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Special%20Crowd%20Cheer%20(sub).mp3"
+  },
+  {
+    "id": 33,
+    "name": "Robot Noise",
+    "url": "https://raw.githubusercontent.com/duckindark/sound_LED/main/Special%20Crowd%20Cheer%20(sub).mp3"
   }
 ]
